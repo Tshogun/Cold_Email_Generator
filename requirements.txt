@@ -1,0 +1,9 @@
+langchain
+langchain-community
+pandas
+langchain-groq
+unstructured
+selenium
+chromadb
+streamlit
+python-dotenv
